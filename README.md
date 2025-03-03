@@ -56,7 +56,7 @@ This project is an interactive **polygon drawing tool** built using **Three.js**
 ## **👨‍💻 Author**
 **Developed by:** Spandana  
 **Domain:** Electronics and Communication Engineering (ECE)  
-**Purpose:** Software Engineer Intern Project for CM.com  
+ 
 
 ---
 
